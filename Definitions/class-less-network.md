@@ -12,4 +12,4 @@ notetype: Basic
 Class-less network
 
 ## Back
-A network that uses more bits in the mask then the default for it's class
+A network that uses more bits in the mask then the default for its class
